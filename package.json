@@ -1,7 +1,7 @@
 {
   "name": "class-prop-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test which NodeJS version supports proposed class properties",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/leonadler/class-prop-test.git"
   },
-  "author": "",
+  "author": "Leon Adler",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leonadler/class-prop-test/issues"
